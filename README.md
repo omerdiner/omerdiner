@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/omer-diner/">Linkedin</a>
 
-<a href="https://www.linkedin.com/in/omer-diner/" target="blank"><img align="center" src="https://rahuldkjain.github.io/gh-profile-readme-generator/#:~:text=https%3A//raw.githubusercontent.com/rahuldkjain/github%2Dprofile%2Dreadme%2Dgenerator/master/src/images/icons/Social/linked%2Din%2Dalt.svg" alt="omerdiner" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omer-diner/" target="blank"><img align="center" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" alt="omerdiner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omerDiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omerdiner" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omerdiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omerdiner" height="30" width="40" /></a>
  <a href="https://www.codewars.com/users/omrdnr" target="blank"><img align="center" src="https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg" alt="omerdiner" height="30" width="40" /></a>
