@@ -7,6 +7,7 @@
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/omer-diner/">Linkedin</a>
 
 <a href="https://www.linkedin.com/in/omer-diner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-diner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omerDiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omerdiner" height="30" width="40" /></a>
