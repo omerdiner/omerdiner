@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ömer Diner.</h1>
 <h3 align="center">A computer engineering student from Istanbul</h3>
 
-- 🔭 I’m currently working on Java Backend Development at [KODLUYORUZ Intern Program.](https://github.com/omerdiner/kodluyoruz)
+- 🔭 I’m currently working on Java Backend Development at [KODLUYORUZ Intern Program.](https://github.com/omerdiner/kodluyoruz).
 
 - 🌱 I’m currently learning **Java , C and Python.**
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omer-diner/">Linkedin</a>
 
 <a href="https://www.linkedin.com/in/omer-diner/" target="blank"><img align="center" src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" alt="omerdiner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/omerDiner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omerdiner" height="30" width="40" /></a>
