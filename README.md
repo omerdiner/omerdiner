@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Diner.</h1>
 <h3 align="center">A computer engineering student from Istanbul</h3>
 
-- 🔭 I’m currently working on Java Backend Development at [KODLUYORUZ Intern Program.](https://github.com/omerdiner/kodluyoruz)
-
 - 🌱 I’m currently learning **Java , C and Python.**
 
 <h3 align="left">My Accounts:</h3>
